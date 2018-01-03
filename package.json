@@ -1,0 +1,25 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "webpack learning tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Penergy/webpack-test.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Eason Peng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Penergy/webpack-test/issues"
+  },
+  "homepage": "https://github.com/Penergy/webpack-test#readme",
+  "devDependencies": {
+    "babel": "^6.23.0"
+  }
+}
